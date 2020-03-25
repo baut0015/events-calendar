@@ -1,0 +1,45 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+th {
+  border: 1px solid #ccc;
+}
+
+tbody td {
+  height: 8em;
+  border-bottom-color: #ccc;
+  border-right: solid 1px #ccc;
+}
+
+.event {
+  border-radius: 8px;
+}
+
+.event-holiday {
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+  color: #991919;
+}
+
+.event-space {
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  color: #333;
+}
+
+.event-earth {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  color: #51603f;
+}
+
+.event-doctor {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  color: #38448e;
+}
